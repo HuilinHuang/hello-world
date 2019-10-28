@@ -1,7 +1,7 @@
 # hello-world
-For assignment in BUS 392. Activity-5
-
-# Go and complete the tutorial on GitHub
+# For assignment in BUS 392. Activity-5
+Create a account and complete the tutorial on the GitHub
 
 # What about me myself
-I am a international student from China, and currently  is a student from Cal poly Slo.
+I am a international student from Zhuhai, China. I have a pure white husky named Brandee. 
+
